@@ -1,0 +1,29 @@
+{
+  "name": "static-evently",
+  "version": "1.0.0",
+  "description": "slightly faster static version of evently",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtudury/static-evently.git"
+  },
+  "keywords": [
+    "static",
+    "event",
+    "signal",
+    "function",
+    "stack"
+  ],
+  "author": "david tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/static-evently/issues"
+  },
+  "devDependencies": {
+    "sinon": "~1.7.3",
+    "mocha": "~1.14.0"
+  }
+}
