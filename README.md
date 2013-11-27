@@ -1,6 +1,6 @@
 # static-evently
 
-  simple js event-like function stacks
+  a slightly faster singleton version of [evently](https://github.com/dtudury/evently)
 
   [![Build Status](https://travis-ci.org/dtudury/static-evently.png)](https://travis-ci.org/dtudury/static-evently)
 

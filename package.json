@@ -1,6 +1,6 @@
 {
   "name": "static-evently",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "slightly faster static version of evently",
   "main": "index.js",
   "scripts": {
